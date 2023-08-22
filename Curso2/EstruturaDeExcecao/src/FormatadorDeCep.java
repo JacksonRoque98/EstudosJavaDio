@@ -11,6 +11,7 @@ public class FormatadorDeCep {
         if(cep.length() != 9){
             throw new CepInvalidoException();
         }
+
         //simulando um cep formatado
         return cep;
     }
