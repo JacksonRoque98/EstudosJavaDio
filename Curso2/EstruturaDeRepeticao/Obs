@@ -1,0 +1,32 @@
+FOR - WHILE - DO/WHILE
+
+FOR = PARA
+
+WHILE = ENQUANTO
+
+DO WHILE = FAÇA ENQUANTO
+
+#estrutura do controle de fluxo for
+
+for(bloco de inicialização; expressão booleana de validação; bloco de atualização)
+{
+     // comando que será executado até que a
+     // expressão de validação torne-se falsa
+}
+
+#estrutura do controle de fluxo while
+
+while (expressão booleana de validação)
+{
+     // comando que será executado até que a
+     // expressão de validação torne-se falsa
+}
+
+#estrutura do controle de fluxo do while
+
+do
+{
+    // comando que será executado até que a
+     // expressão de validação torne-se falsa
+}
+while (expressão booleana de validação);
